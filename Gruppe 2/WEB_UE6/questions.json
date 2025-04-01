@@ -1,0 +1,222 @@
+[
+  {
+    "category": "Math",
+    "question": "Was ist 2 + 2?",
+    "options": [2, 3, 4, 5],
+    "answer": 4,
+    "difficulty": "easy"
+  },
+  {
+    "category": "Science",
+    "question": "Welcher Planet ist als der Rote Planet bekannt?",
+    "options": ["Erde", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "difficulty": "easy"
+  },
+  {
+    "category": "History",
+    "question": "Wer war der erste Präsident der Vereinigten States?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "answer": "George Washington",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "question": "Welcher Kontinent ist flächenmäßig der größte?",
+    "options": ["Afrika", "Asien", "Europa", "Antarctica"],
+    "answer": "Asien",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Literature",
+    "question": "Wer schrieb 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Sports",
+    "question": "Welche Sportart wird als 'das schöne Spiel' bezeichnet?",
+    "options": ["Basketball", "Fußball", "Tennis", "Cricket"],
+    "answer": "Fußball",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Music",
+    "question": "Wer wird als der 'King of Pop' bezeichnet?",
+    "options": ["Elvis Presley", "Michael Jackson", "Prince", "Madonna"],
+    "answer": "Michael Jackson",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Technology",
+    "question": "Wofür steht 'HTTP'?",
+    "options": [
+      "HyperText-Übertragungsprotokoll",
+      "HighText-Übertragungsprotokoll",
+      "HyperText-Transmissionsprotokoll",
+      "Hyper Transfer Text Protokoll"
+    ],
+    "answer": "HyperText-Übertragungsprotokoll",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Art",
+    "question": "Welcher Künstler malte die Mona Lisa?",
+    "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "answer": "Leonardo da Vinci",
+    "difficulty": "easy"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Was ist die Hauptstadt von Frankreich?",
+    "options": ["Berlin", "Madrid", "Paris", "Rom"],
+    "answer": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Math",
+    "question": "Was ist die Quadratwurzel von 81?",
+    "options": [7, 8, 9, 10],
+    "answer": 9,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Science",
+    "question": "Welches Gas nehmen Pflanzen aus der Atmosphäre auf?",
+    "options": ["Sauerstoff", "Stickstoff", "Kohlendioxid", "Wasserstoff"],
+    "answer": "Kohlendioxid",
+    "difficulty": "medium"
+  },
+  {
+    "category": "History",
+    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "options": [1942, 1945, 1948, 1950],
+    "answer": 1945,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geography",
+    "question": "Welcher ist der längste Fluss der Welt?",
+    "options": ["Nil", "Amazonas", "Yangtze", "Mississippi"],
+    "answer": "Nil",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Literature",
+    "question": "Wer schrieb '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.D. Salinger"],
+    "answer": "George Orwell",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Sports",
+    "question": "Welches Land war Gastgeber der Olympischen Sommerspiele 2016?",
+    "options": ["Brasilien", "China", "Vereinigtes Königreich", "Russland"],
+    "answer": "Brasilien",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Music",
+    "question": "Welche Band veröffentlichte das Album 'Abbey Road'?",
+    "options": ["The Beatles", "The Rolling Stones", "Queen", "Led Zeppelin"],
+    "answer": "The Beatles",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Technology",
+    "question": "Welche Programmiersprache wird hauptsächlich für die Android-App-Entwicklung verwendet?",
+    "options": ["Java", "Swift", "C#", "Python"],
+    "answer": "Java",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Art",
+    "question": "Mit welcher Kunstbewegung wird Salvador Dalí in Verbindung gebracht?",
+    "options": ["Kubismus", "Surrealismus", "Impressionismus", "Realismus"],
+    "answer": "Surrealismus",
+    "difficulty": "medium"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Welches Element hat das chemische Symbol 'O'?",
+    "options": ["Gold", "Sauerstoff", "Osmium", "Oganesson"],
+    "answer": "Sauerstoff",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Math",
+    "question": "Was ist die Ableitung von sin(x)?",
+    "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+    "answer": "cos(x)",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Science",
+    "question": "Welches Organell gilt als das Kraftwerk der Zelle?",
+    "options": ["Zellkern", "Mitochondrien", "Ribosomen", "Endoplasmatisches Retikulum"],
+    "answer": "Mitochondrien",
+    "difficulty": "hard"
+  },
+  {
+    "category": "History",
+    "question": "Wer war während des größten Teils des Zweiten Weltkriegs der britische Premierminister?",
+    "options": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Stanley Baldwin"],
+    "answer": "Winston Churchill",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Geography",
+    "question": "Welches ist das flächenmäßig kleinste Land der Welt?",
+    "options": ["Monaco", "Vatikanstadt", "Nauru", "San Marino"],
+    "answer": "Vatikanstadt",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Literature",
+    "question": "Welcher Roman beginnt mit dem Satz 'Nenn mich Ishmael'?",
+    "options": ["Moby Dick", "Der alte Mann und das Meer", "Herz der Finsternis", "Der große Gatsby"],
+    "answer": "Moby Dick",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Sports",
+    "question": "Wer hat die meisten Formel-1-Weltmeisterschaften gewonnen?",
+    "options": ["Michael Schumacher", "Lewis Hamilton", "Juan Manuel Fangio", "Sebastian Vettel"],
+    "answer": "Lewis Hamilton",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Music",
+    "question": "Welcher klassische Komponist wurde im späteren Leben taub?",
+    "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+    "answer": "Beethoven",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Technology",
+    "question": "Wofür steht 'SQL'?",
+    "options": [
+      "Strukturierte Abfragesprache",
+      "Einfache Abfragesprache",
+      "Sequenzielle Abfragesprache",
+      "Strukturierte Fragesprache"
+    ],
+    "answer": "Strukturierte Abfragesprache",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Art",
+    "question": "In welchem Land begann die Renaissance?",
+    "options": ["Frankreich", "England", "Italien", "Deutschland"],
+    "answer": "Italien",
+    "difficulty": "hard"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Was ist die Währung Japans?",
+    "options": ["Yuan", "Yen", "Won", "Dollar"],
+    "answer": "Yen",
+    "difficulty": "hard"
+  }
+]

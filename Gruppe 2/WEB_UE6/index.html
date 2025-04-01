@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Multiple Choice Quiz</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+  <!-- Eigene Styles -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container mt-5">
+    <!-- Spielername Eingabe -->
+    <div id="player-input" class="mb-4">
+      <!-- Das Formular für den Spielernamen wird hier dynamisch eingefügt -->
+    </div>
+    <!-- Quiz Container -->
+    <div id="quiz-container" class="card" style="display: none;">
+      <div class="card-body">
+        <h1 class="card-title text-center">Quiz</h1>
+        <!-- Frage, Antwortoptionen und Ergebnisse werden hier angezeigt -->
+      </div>
+    </div>
+    <!-- Leaderboard -->
+    <div id="leaderboard" class="mt-5">
+      <h2>Leaderboard</h2>
+      <!-- Das Leaderboard wird hier dynamisch erstellt -->
+    </div>
+  </div>
+  <!-- Das kompilierte TypeScript (JavaScript) -->
+  <script type="module" src="dist/script.js"></script>
+</body>
+</html>
