@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,7 +13,14 @@
   <div class="container mt-5">
     <!-- Spielername Eingabe -->
     <div id="player-input" class="mb-4">
-      <!-- Das Formular für den Spielernamen wird hier dynamisch eingefügt -->
+      <!-- Eingabeformular für den Spielernamen -->
+      <form id="player-form">
+        <div class="form-group">
+          <label for="playerName">Gib deinen Namen ein:</label>
+          <input type="text" class="form-control" id="playerName" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Start Quiz</button>
+      </form>
     </div>
     <!-- Quiz Container -->
     <div id="quiz-container" class="card" style="display: none;">
@@ -29,6 +36,6 @@
     </div>
   </div>
   <!-- Das kompilierte TypeScript (JavaScript) -->
-  <script type="module" src="dist/script.js"></script>
+  <script type="module" src="dist/main.js"></script>
 </body>
 </html>
