@@ -1,222 +1,324 @@
 [
   {
-    "category": "Math",
-    "question": "Was ist 2 + 2?",
-    "options": [2, 3, 4, 5],
-    "answer": 4,
-    "difficulty": "easy"
-  },
-  {
-    "category": "Science",
-    "question": "Welcher Planet ist als der Rote Planet bekannt?",
-    "options": ["Erde", "Mars", "Jupiter", "Saturn"],
-    "answer": "Mars",
-    "difficulty": "easy"
-  },
-  {
-    "category": "History",
-    "question": "Wer war der erste Präsident der Vereinigten States?",
-    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
-    "answer": "George Washington",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Geography",
-    "question": "Welcher Kontinent ist flächenmäßig der größte?",
-    "options": ["Afrika", "Asien", "Europa", "Antarctica"],
-    "answer": "Asien",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Literature",
-    "question": "Wer schrieb 'Romeo and Juliet'?",
-    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
-    "answer": "William Shakespeare",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Sports",
-    "question": "Welche Sportart wird als 'das schöne Spiel' bezeichnet?",
-    "options": ["Basketball", "Fußball", "Tennis", "Cricket"],
-    "answer": "Fußball",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Music",
-    "question": "Wer wird als der 'King of Pop' bezeichnet?",
-    "options": ["Elvis Presley", "Michael Jackson", "Prince", "Madonna"],
-    "answer": "Michael Jackson",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Technology",
-    "question": "Wofür steht 'HTTP'?",
-    "options": [
-      "HyperText-Übertragungsprotokoll",
-      "HighText-Übertragungsprotokoll",
-      "HyperText-Transmissionsprotokoll",
-      "Hyper Transfer Text Protokoll"
-    ],
-    "answer": "HyperText-Übertragungsprotokoll",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Art",
-    "question": "Welcher Künstler malte die Mona Lisa?",
-    "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
-    "answer": "Leonardo da Vinci",
-    "difficulty": "easy"
-  },
-  {
-    "category": "General Knowledge",
-    "question": "Was ist die Hauptstadt von Frankreich?",
-    "options": ["Berlin", "Madrid", "Paris", "Rom"],
-    "answer": "Paris",
-    "difficulty": "easy"
-  },
-  {
-    "category": "Math",
-    "question": "Was ist die Quadratwurzel von 81?",
+    "category": "Allgemeinwissen",
+    "question": "Wie viele Planeten befinden sich in unserem Sonnensystem?",
     "options": [7, 8, 9, 10],
-    "answer": 9,
+    "answer": 8,
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geographie",
+    "question": "Welches Land ist flächenmäßig das zweitgrößte der Welt?",
+    "options": ["Kanada", "USA", "Russland", "China"],
+    "answer": "Kanada",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geschichte",
+    "question": "Wer war der erste Kaiser des Römischen Reiches?",
+    "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
+    "answer": "Augustus",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Wissenschaft",
+    "question": "Wie nennt man den Prozess, bei dem Pflanzen Sonnenlicht in Energie umwandeln?",
+    "options": ["Photosynthese", "Respiration", "Fermentation", "Osmose"],
+    "answer": "Photosynthese",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Sport",
+    "question": "Wie viele Ringe sind im olympischen Symbol abgebildet?",
+    "options": [4, 5, 6, 7],
+    "answer": 5,
+    "difficulty": "easy"
+  },
+  {
+    "category": "Musik",
+    "question": "Welcher Musiker ist bekannt für den Song '99 Luftballons'?",
+    "options": ["Nena", "Falco", "Herbert Grönemeyer", "Peter Schilling"],
+    "answer": "Nena",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Allgemeinwissen",
+    "question": "Wie viele Stunden hat ein Tag?",
+    "options": [12, 24, 36, 48],
+    "answer": 24,
+    "difficulty": "easy"
+  },
+  {
+    "category": "Technologie",
+    "question": "Was ist ein Smartphone?",
+    "options": ["Ein tragbarer Computer", "Ein Taschenrechner", "Ein Musikinstrument", "Ein Fernseher"],
+    "answer": "Ein tragbarer Computer",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Literatur",
+    "question": "Wer schrieb 'Der Kleine Prinz'?",
+    "options": ["Antoine de Saint-Exupéry", "Victor Hugo", "Gabriel García Márquez", "Ernest Hemingway"],
+    "answer": "Antoine de Saint-Exupéry",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Kunst",
+    "question": "Welche Farbe erhält man durch Mischen von Blau und Gelb?",
+    "options": ["Grün", "Lila", "Orange", "Braun"],
+    "answer": "Grün",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geschichte",
+    "question": "In welchem Jahrhundert begann die Renaissance in Europa?",
+    "options": ["13. Jahrhundert", "14. Jahrhundert", "15. Jahrhundert", "16. Jahrhundert"],
+    "answer": "14. Jahrhundert",
     "difficulty": "medium"
   },
   {
-    "category": "Science",
-    "question": "Welches Gas nehmen Pflanzen aus der Atmosphäre auf?",
-    "options": ["Sauerstoff", "Stickstoff", "Kohlendioxid", "Wasserstoff"],
-    "answer": "Kohlendioxid",
+    "category": "Geographie",
+    "question": "Welcher Fluss fließt durch Paris?",
+    "options": ["Seine", "Thames", "Rhein", "Donau"],
+    "answer": "Seine",
     "difficulty": "medium"
   },
   {
-    "category": "History",
-    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
-    "options": [1942, 1945, 1948, 1950],
-    "answer": 1945,
+    "category": "Wissenschaft",
+    "question": "Aus welchen Teilchen besteht der Atomkern?",
+    "options": ["Elektronen", "Protonen und Neutronen", "Neutronen", "Quarks"],
+    "answer": "Protonen und Neutronen",
     "difficulty": "medium"
   },
   {
-    "category": "Geography",
-    "question": "Welcher ist der längste Fluss der Welt?",
-    "options": ["Nil", "Amazonas", "Yangtze", "Mississippi"],
-    "answer": "Nil",
+    "category": "Sport",
+    "question": "Wie viele Minuten dauert ein Standard-Fußballspiel (ohne Nachspielzeit)?",
+    "options": [60, 75, 90, 105],
+    "answer": 90,
     "difficulty": "medium"
   },
   {
-    "category": "Literature",
-    "question": "Wer schrieb '1984'?",
-    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.D. Salinger"],
-    "answer": "George Orwell",
+    "category": "Musik",
+    "question": "Welche Band veröffentlichte das Album 'Dark Side of the Moon'?",
+    "options": ["Pink Floyd", "The Beatles", "Queen", "Led Zeppelin"],
+    "answer": "Pink Floyd",
     "difficulty": "medium"
   },
   {
-    "category": "Sports",
-    "question": "Welches Land war Gastgeber der Olympischen Sommerspiele 2016?",
-    "options": ["Brasilien", "China", "Vereinigtes Königreich", "Russland"],
-    "answer": "Brasilien",
+    "category": "Kunst",
+    "question": "Welcher Maler ist bekannt für seinen impressionistischen Stil, z. B. 'Impression, Sonnenaufgang'?",
+    "options": ["Claude Monet", "Edvard Munch", "Paul Cézanne", "Pierre-Auguste Renoir"],
+    "answer": "Claude Monet",
     "difficulty": "medium"
   },
   {
-    "category": "Music",
-    "question": "Welche Band veröffentlichte das Album 'Abbey Road'?",
-    "options": ["The Beatles", "The Rolling Stones", "Queen", "Led Zeppelin"],
+    "category": "Literatur",
+    "question": "Welches Werk von Franz Kafka beschreibt die Verwandlung eines Mannes in ein Insekt?",
+    "options": ["Der Process", "Die Verwandlung", "Das Schloss", "In der Strafkolonie"],
+    "answer": "Die Verwandlung",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Technologie",
+    "question": "Welches Betriebssystem verwendet Apple für mobile Geräte?",
+    "options": ["Android", "iOS", "Windows Phone", "BlackBerry OS"],
+    "answer": "iOS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Mathe",
+    "question": "Was ist das Ergebnis von 12 * 8?",
+    "options": [80, 88, 96, 104],
+    "answer": 96,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Allgemeinwissen",
+    "question": "Welches Land gewann die Fußballweltmeisterschaft 2014?",
+    "options": ["Brasilien", "Deutschland", "Argentinien", "Spanien"],
+    "answer": "Deutschland",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geographie",
+    "question": "Welches Meer liegt zwischen Europa und Afrika?",
+    "options": ["Atlantischer Ozean", "Mittelmeer", "Schwarzes Meer", "Rotes Meer"],
+    "answer": "Mittelmeer",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geschichte",
+    "question": "Wer war der Anführer der bolschewistischen Revolution in Russland?",
+    "options": ["Lenin", "Stalin", "Trotsky", "Kerenski"],
+    "answer": "Lenin",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Wissenschaft",
+    "question": "Wie heißt der Prozess, bei dem Wasser von flüssiger in gasförmiger Form übergeht?",
+    "options": ["Kondensation", "Verdampfung", "Sublimation", "Gefrieren"],
+    "answer": "Verdampfung",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Musik",
+    "question": "Welcher Musiker ist bekannt für sein Genre 'Reggae'?",
+    "options": ["Bob Marley", "Elvis Presley", "Michael Jackson", "Stevie Wonder"],
+    "answer": "Bob Marley",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Kunst",
+    "question": "Welcher Bildhauer schuf die Statue 'Der Denker'?",
+    "options": ["Auguste Rodin", "Michelangelo", "Donatello", "Bernini"],
+    "answer": "Auguste Rodin",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Technologie",
+    "question": "Was ist ein Browser?",
+    "options": ["Ein Programm zum Anzeigen von Webseiten", "Ein Texteditor", "Ein Betriebssystem", "Ein Virenscanner"],
+    "answer": "Ein Programm zum Anzeigen von Webseiten",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Mathe",
+    "question": "Wie lautet 7 mal 8?",
+    "options": [49, 54, 56, 64],
+    "answer": 56,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Allgemeinwissen",
+    "question": "Welcher Kontinent ist der bevölkerungsreichste?",
+    "options": ["Afrika", "Asien", "Europa", "Nordamerika"],
+    "answer": "Asien",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Technologie",
+    "question": "Was bezeichnet der Begriff 'Browser' in der Informatik?",
+    "options": ["Ein Programm zur Anzeige von Webseiten", "Ein Gerät zum Speichern von Daten", "Ein Netzwerkprotokoll", "Ein Antivirenprogramm"],
+    "answer": "Ein Programm zur Anzeige von Webseiten",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geschichte",
+    "question": "Welcher britische Monarch regierte während der viktorianischen Ära?",
+    "options": ["Queen Elizabeth I", "Queen Victoria", "King George V", "King Henry VIII"],
+    "answer": "Queen Victoria",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Musik",
+    "question": "Welche Band wurde als 'The Fab Four' bekannt?",
+    "options": ["The Beatles", "The Rolling Stones", "The Who", "The Kinks"],
     "answer": "The Beatles",
     "difficulty": "medium"
   },
   {
-    "category": "Technology",
-    "question": "Welche Programmiersprache wird hauptsächlich für die Android-App-Entwicklung verwendet?",
-    "options": ["Java", "Swift", "C#", "Python"],
-    "answer": "Java",
-    "difficulty": "medium"
-  },
-  {
-    "category": "Art",
-    "question": "Mit welcher Kunstbewegung wird Salvador Dalí in Verbindung gebracht?",
-    "options": ["Kubismus", "Surrealismus", "Impressionismus", "Realismus"],
-    "answer": "Surrealismus",
-    "difficulty": "medium"
-  },
-  {
-    "category": "General Knowledge",
-    "question": "Welches Element hat das chemische Symbol 'O'?",
-    "options": ["Gold", "Sauerstoff", "Osmium", "Oganesson"],
-    "answer": "Sauerstoff",
-    "difficulty": "medium"
-  },
-  {
-    "category": "Math",
-    "question": "Was ist die Ableitung von sin(x)?",
-    "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
-    "answer": "cos(x)",
+    "category": "Mathe",
+    "question": "Was ist der Wert von Pi (π) gerundet auf 4 Nachkommastellen?",
+    "options": ["3.1415", "3.1416", "3.1417", "3.1418"],
+    "answer": "3.1416",
     "difficulty": "hard"
   },
   {
-    "category": "Science",
-    "question": "Welches Organell gilt als das Kraftwerk der Zelle?",
-    "options": ["Zellkern", "Mitochondrien", "Ribosomen", "Endoplasmatisches Retikulum"],
-    "answer": "Mitochondrien",
+    "category": "Wissenschaft",
+    "question": "Wie viele Planeten hat unser Sonnensystem (nach aktueller Definition)?",
+    "options": [7, 8, 9, 10],
+    "answer": 8,
     "difficulty": "hard"
   },
   {
-    "category": "History",
-    "question": "Wer war während des größten Teils des Zweiten Weltkriegs der britische Premierminister?",
-    "options": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Stanley Baldwin"],
-    "answer": "Winston Churchill",
+    "category": "Geographie",
+    "question": "Welches Land hat die größte Fläche?",
+    "options": ["Kanada", "Russland", "USA", "China"],
+    "answer": "Russland",
     "difficulty": "hard"
   },
   {
-    "category": "Geography",
-    "question": "Welches ist das flächenmäßig kleinste Land der Welt?",
-    "options": ["Monaco", "Vatikanstadt", "Nauru", "San Marino"],
-    "answer": "Vatikanstadt",
+    "category": "Geschichte",
+    "question": "In welchem Jahr begann der Erste Weltkrieg?",
+    "options": [1912, 1914, 1916, 1918],
+    "answer": 1914,
     "difficulty": "hard"
   },
   {
-    "category": "Literature",
-    "question": "Welcher Roman beginnt mit dem Satz 'Nenn mich Ishmael'?",
-    "options": ["Moby Dick", "Der alte Mann und das Meer", "Herz der Finsternis", "Der große Gatsby"],
-    "answer": "Moby Dick",
+    "category": "Literatur",
+    "question": "Welcher deutsche Autor schrieb 'Faust'?",
+    "options": ["Heinrich Heine", "Johann Wolfgang von Goethe", "Friedrich Schiller", "Thomas Mann"],
+    "answer": "Johann Wolfgang von Goethe",
     "difficulty": "hard"
   },
   {
-    "category": "Sports",
-    "question": "Wer hat die meisten Formel-1-Weltmeisterschaften gewonnen?",
-    "options": ["Michael Schumacher", "Lewis Hamilton", "Juan Manuel Fangio", "Sebastian Vettel"],
-    "answer": "Lewis Hamilton",
-    "difficulty": "hard"
-  },
-  {
-    "category": "Music",
-    "question": "Welcher klassische Komponist wurde im späteren Leben taub?",
-    "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+    "category": "Musik",
+    "question": "Welcher Komponist schrieb die 'Mondscheinsonate'?",
+    "options": ["Mozart", "Beethoven", "Bach", "Schubert"],
     "answer": "Beethoven",
     "difficulty": "hard"
   },
   {
-    "category": "Technology",
-    "question": "Wofür steht 'SQL'?",
-    "options": [
-      "Strukturierte Abfragesprache",
-      "Einfache Abfragesprache",
-      "Sequenzielle Abfragesprache",
-      "Strukturierte Fragesprache"
-    ],
-    "answer": "Strukturierte Abfragesprache",
+    "category": "Kunst",
+    "question": "Welcher Künstler gilt als Begründer der abstrakten Kunst?",
+    "options": ["Piet Mondrian", "Wassily Kandinsky", "Jackson Pollock", "Mark Rothko"],
+    "answer": "Wassily Kandinsky",
     "difficulty": "hard"
   },
   {
-    "category": "Art",
-    "question": "In welchem Land begann die Renaissance?",
-    "options": ["Frankreich", "England", "Italien", "Deutschland"],
-    "answer": "Italien",
+    "category": "Technologie",
+    "question": "Was bedeutet die Abkürzung 'RAM' in der Informatik?",
+    "options": ["Readily Available Memory", "Random Access Memory", "Rapid Application Model", "Read And Memorize"],
+    "answer": "Random Access Memory",
     "difficulty": "hard"
   },
   {
-    "category": "General Knowledge",
-    "question": "Was ist die Währung Japans?",
-    "options": ["Yuan", "Yen", "Won", "Dollar"],
-    "answer": "Yen",
+    "category": "Mathe",
+    "question": "Was ist die Lösung der quadratischen Gleichung x² - 5x + 6 = 0?",
+    "options": ["x=2 oder x=3", "x=1 oder x=6", "x=-2 oder x=-3", "x=0"],
+    "answer": "x=2 oder x=3",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Allgemeinwissen",
+    "question": "Welcher Planet wird wegen seiner Ringe oft als der 'ringreiche Planet' bezeichnet?",
+    "options": ["Jupiter", "Uranus", "Saturn", "Neptun"],
+    "answer": "Saturn",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Geschichte",
+    "question": "Welcher Vertrag beendete den Ersten Weltkrieg?",
+    "options": ["Versailles", "Friedensvertrag von Paris", "Trianon", "Brest-Litowsk"],
+    "answer": "Versailles",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Geographie",
+    "question": "Welches Land besitzt die meisten Inseln?",
+    "options": ["Kanada", "Indonesien", "Norwegen", "Schweden"],
+    "answer": "Schweden",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Wissenschaft",
+    "question": "Wie lautet die chemische Formel für Glukose?",
+    "options": ["C6H12O6", "C5H10O5", "C6H10O5", "C5H12O6"],
+    "answer": "C6H12O6",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Literatur",
+    "question": "Welcher russische Autor schrieb 'Krieg und Frieden'?",
+    "options": ["Fjodor Dostojewski", "Leo Tolstoi", "Anton Tschechow", "Nikolai Gogol"],
+    "answer": "Leo Tolstoi",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Technologie",
+    "question": "Welcher Pionier der Informatik entwickelte das Konzept des Universalcomputers?",
+    "options": ["Alan Turing", "Bill Gates", "Steve Jobs", "Charles Babbage"],
+    "answer": "Charles Babbage",
     "difficulty": "hard"
   }
 ]
